@@ -79,7 +79,7 @@ else:
                 s = input('You have no more attempts, want to play again? yes/no:\n')
                 s = s.title()
                 if s == 'Yes':
-                    print('отлично, погнали!')
+                    print('Great, let\'s go!')
                 else:
                     break
 
